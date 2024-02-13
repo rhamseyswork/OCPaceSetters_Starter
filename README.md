@@ -42,6 +42,15 @@ oc-pace-setters/
 │ └── server.js
 └── docker-compose.yml
 
+#Prerequisites
+Node and npm are installed. Here are the versions I'll be using while making this tutorial:
+
+$ node --version
+v16.13.2
+
+$ npm --version
+8.1.2
+
 ## Features
 
 [Feature 1 description]
